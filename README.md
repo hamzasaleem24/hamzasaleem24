@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hamza! <br/><a href="https://github.com/hamzasaleem24">Programmer</a>, <a href="https://www.linkedin.com/in/hamza-saleem-24IH/">Aspiring Cybersecurity Professional</a>,
+<h1>Hi, I'm Hamza! <br/><a href="https://github.com/hamzasaleem24">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/hamza-saleem-24IH/">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
