@@ -7,4 +7,4 @@
 
 [linkedin]: https://linkedin.com/in/hamza-saleem-24ih
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzasaleem24&show_icons=true&theme=radical)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzasaleem24&show_icons=true&theme=dark#gh-dark-mode-only)
