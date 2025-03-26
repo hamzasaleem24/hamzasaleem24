@@ -6,3 +6,5 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 [linkedin]: https://linkedin.com/in/hamza-saleem-24ih
+
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzasaleem24&show_icons=true&theme=radical)
